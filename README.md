@@ -6,7 +6,7 @@
 - Why networking is the foundation of cloud
 - What a server is
 - Infrastructure thinking
-- Problem-solving mindset
+- Problem-solving in cloud learning
 
 ---
 
